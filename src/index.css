@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.thumbs {
+  display: flex;
+  justify-content: center;
+}
+
+.StripeElement {
+  width : 400px !important;
+  margin-block: 20px;
+  margin-inline: auto;
+}
+#paymentBtn{
+  display: flex;
+  margin-block: 5px;
+ justify-content: center;
+
+}
